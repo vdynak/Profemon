@@ -1,7 +1,4 @@
-//
 //  trainer.hpp
-//  135
-//
 //  Created by Victoria Dynak on 5/14/23.
 //
 
