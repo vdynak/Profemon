@@ -1,5 +1,5 @@
 # Profemon
-This command line project trains Profemons. This is a concept based on Pokemon, but instead, it is based on professors at my college; hence, Profemons.
+This command line project trains Profemons. This is a concept based on Pokemon, but instead, it is applies to the professors at my college; hence, Profemons.
 
 Explanation: Trainers train their profemons, so they can challenge the departments (trainers who specialize in a single type of profemon) to a profemon battle and gain a degree.
 
