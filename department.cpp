@@ -1,9 +1,5 @@
-//
 //  department.cpp
-//  135
-//
 //  Created by Victoria Dynak on 5/16/23.
-//
 
 #include "department.hpp"
 #include "trainer.hpp"
