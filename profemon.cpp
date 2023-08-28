@@ -1,8 +1,6 @@
 /*
- Victoria Dynak
- CSCI135
- Genady Maryash
  profemon.cpp
+ Created by Victoria Dynak on 5/16/23.
  */
 
 #include <iostream>
