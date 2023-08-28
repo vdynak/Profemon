@@ -1,8 +1,6 @@
 /*
- Victoria Dynak
- CSCI135
- Genady Maryash
  skill.hpp
+ Created by Victoria Dynak on 5/16/23.
  */
 
 #ifndef skill_hpp
