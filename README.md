@@ -1,9 +1,9 @@
 # Profemon
-This command line project trains Profemons.
+This command line project trains Profemons. This is a concept based on Pokemon, but instead, it is based on professors at my college; hence, Profemons.
 
 Explanation: Trainers train their profemons, so they can challenge the departments (trainers who specialize in a single type of profemon) to a profemon battle and gain a degree.
 
-The Skill class consists of the name and description of the skil, the total number of times the skill can be used, and the integer that represents the specialty of the skill (0, 1, or 2).
+The Skill class consists of the name and description of the skill, the total number of times the skill can be used, and the integer that represents the specialty of the skill (0, 1, or 2).
 
 The Profemon class consists of the name and level of the profemon, the current experience, required experience to level up, maximum health, specialty of the profemon, as well as an array of size 3 conraining skills learned by the profemon.
 Note: The Profemon class has an enumeration type called "Specialty" with three values: ML, Software, or Hardware.
