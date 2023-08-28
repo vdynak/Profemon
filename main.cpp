@@ -1,7 +1,5 @@
 /*
  Victoria Dynak
- CSCI135
- Genady Maryash
  main.cpp
  */
 
