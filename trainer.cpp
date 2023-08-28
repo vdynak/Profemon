@@ -1,7 +1,4 @@
-//
 //  trainer.cpp
-//  135
-//
 //  Created by Victoria Dynak on 5/14/23.
 // contains, remove, setteammember, / chooseProfemon, getCurrent
 
