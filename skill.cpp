@@ -1,8 +1,6 @@
 /*
- Victoria Dynak
- CSCI135
- Genady Mayash
  skill.cpp
+ Created by Victoria Dynak on 5/16/23.
  */
 
 #include <iostream>
